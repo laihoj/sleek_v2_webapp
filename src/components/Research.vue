@@ -29,8 +29,10 @@
 	<li>Temporal convolutional networks are suitable for classifying inertial measurement time series data</li>
 </ol>
 	
-
-
+<br>
+<br>
+	<p>The different gestures have different performance needs. Device interaction such as navigation between applications or windows must be near-instant and feel snappy. Sign language interpretation can perhaps afford to be some milliseconds slower if it benefits recognition accuracy. Detecting inactivity for power management purposes must does not need to be fast at all, so long as the device doesn't spontaneously trigger falling asleep. </p>
+	<p>Because of how the device is worn, there may be device position variance between uses - the 'rings' may go on different fingers, the devices may be worn at slightly different angles and at different finger depths. This must not affect performance, and models should strive to be wearing-configuration agnostic. Either the models are tolerant to such transformations, or that there is a separate "synchronisation" (for lack of a better work) the user can easily perform to inform the device of faulty calibration </p>
 
 	</div>
 	

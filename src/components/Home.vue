@@ -6,8 +6,22 @@
         	<h2>A platform for projects using MCUs to track body part movement.</h2> 
         	<p style="text-align: left">
 <br>
+
 <hr>
-<p>TODO: fierbase for context server: follow <a href="https://firebase.google.com/docs/admin/setup">firebase admin setup</a> and <a href="https://github.com/firebase/quickstart-nodejs/blob/master/database/README.md">firebase tutorial</a></p>
+<ul>
+	<li>Distributed systems: Multiple data producers, apps with offline support and real-time sync
+	<li>Modern Cloud Architecture: AWS + Containers + Managed services</li>
+	<li>Large scale data: Oura customers generate terabytes of data</li>
+	<li>Applied ML: Great data for building production machine learning systems</li>
+	<li>Security: We handle sensitive user data, where security is not an afterthought</li>
+	<li>Embedded / Bluetooth / C++ / low level programming</li>
+	<li>A continuously growing user-base of highly active and passionate users</li>
+</ul>
+<p></p>
+<br>
+
+<hr>
+<p>TODO: firebase for context server: follow <a href="https://firebase.google.com/docs/admin/setup">firebase admin setup</a> and <a href="https://github.com/firebase/quickstart-nodejs/blob/master/database/README.md">firebase tutorial</a></p>
 <hr>
 <div class="row">
 	<h3>Overall Architecture</h3>

@@ -2,6 +2,34 @@
 	<div>
 		<a href="https://themes.gohugo.io/theme/hugo-creative-portfolio-theme/portfolio/">Use me for creating nice use case portfolio</a>
 
+<p>
+	Finger motion tracking to:
+</p>
+<ol>
+	<li>
+		Describe overall activity (sitting, walking, typing, talking, etc)	
+	</li><li>
+		Interpret sign language
+	</li><li>
+		Detect intentions (gesture controlled smart home interaction)
+	</li><li>
+		Recognize key presses (text production, navigation, shortcuts)
+	</li><li>
+		3D visuals, VR
+	</li><li>
+		Infer hand/wrist/arm/body position for health
+	</li><li>
+		Put motion trackers in more varied places on the body
+	</li>
+</ol>
+
+
+
+
+
+
+
+
 		<h4>Application imagination in GIF format:</h4>
 
 		<div class="container">
