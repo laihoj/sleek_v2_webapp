@@ -14,6 +14,7 @@
   <router-link to="/usecases/" tag="li" active-class="active"><a>Use Cases</a></router-link>
   <!-- <router-link to="/fifo/" tag="li" active-class="active"><a>Fifo</a></router-link> -->
   <router-link to="/recorder/" tag="li" active-class="active"><a>Recorder</a></router-link>
+  <router-link to="/midi/" tag="li" active-class="active"><a>MIDI</a></router-link>
 </ul>  
 <ul class="nav nav-pills navbar-right">
   <li><input type="text" class="form-control" v-model="username"></li>

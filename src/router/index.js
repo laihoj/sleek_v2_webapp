@@ -16,6 +16,7 @@ import Recording from '@/components/recording/Recording.vue';
 // import NewRecording from '@/components/recording/NewRecording.vue';
 import Recordings from '@/components/recording/Recordings.vue';
 import Usecases from '@/components/Usecases.vue';
+import MIDI from '@/components/MIDI.vue';
 import RecogAPI from '@/components/RecogAPI.vue';
 import MLConf from '@/components/MLConf.vue';
 import DsDashboard from '@/components/DsDashboard.vue';
@@ -155,6 +156,14 @@ export default new Router({
           'header-top': Header
         },
       name: 'usecases' 
+    },
+    {
+      path: '/midi',
+      components: {
+          default: MIDI, 
+          'header-top': Header
+        },
+      name: 'midi' 
     },
     {
       path: '/mlconf',
