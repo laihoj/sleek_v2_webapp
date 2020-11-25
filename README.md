@@ -1,3 +1,10 @@
+## Overview
+This is the repository of the Sleek web app. Sleek is the working title for a wearable sensors human activity recognition solution.
+
+## App
+App and further description is found at https://confident-tereshkova-0987e8.netlify.app/#/ 
+
+
 # app
 
 > A Vue.js project
