@@ -7,7 +7,23 @@
     <br>
     <!-- <b-img src="../../assets/device_sleek2.jpg" fluid thumbnail alt="Recorder Dashboard Sketch"></b-img> -->
 
-	<div>TODO: combine AP first time wifi credential, flash storage, and wifi connection on reboot</div>
+
+
+    TOOD: enable config in runtime: 
+    <ul>
+    	<li>change sampling rate in real time</li>
+    	<li>power saving mode?</li>
+    	<li>Device name?</li>
+    	<li>Wifi creds?</li>
+    	<li>UDP target?</li>
+    </ul>
+
+    Need to update state management, add new state. How to trigger config state? Config state need to be reachable from every state?
+    want to be able to config in access point mode: Benefit, can update all settings at once
+    want to be able to config in normal operation mode: Benefit, can send update request from web app
+    - OK, very handy would be to use AWS IoT shadows or Arduino cloud, but AWS IoT would take long to figure. Arduino cloud has a limited number of devices for free. Make own system device manager, or switch to paid arduino cloud?
+    
+	TODO: combine AP first time wifi credential, flash storage, and wifi connection on reboot
 
     <p>
     	First time setup routine: Upload Arduino program using programmer (Arduino IDE)
